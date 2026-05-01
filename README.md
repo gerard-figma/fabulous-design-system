@@ -1,3 +1,9 @@
+![Fabulous Design System](./fds.png)
+
+# Fabulous Design System
+
+*Oh, this? It is not "just another button library." It is a carefully orchestrated visual regime where spacing is intentional, typography is disciplined, and rogue hex values are quietly shown the door. If you still think design tokens are optional, that is all.*
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
