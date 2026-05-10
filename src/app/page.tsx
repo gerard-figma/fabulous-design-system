@@ -39,7 +39,7 @@ export default function Home() {
             shadcn/ui
           </p>
           <h1 className="font-heading text-3xl font-semibold tracking-tight sm:text-4xl">
-            Component showcase
+            Hey CES
           </h1>
           <p className="text-muted-foreground max-w-xl text-sm leading-relaxed">
             Default surface is a cool gray with a pink tint; buttons, badges,
