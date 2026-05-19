@@ -8,8 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Component showcase",
-  description: "shadcn/ui components on a pink-forward theme",
+  title: "Fabulous CRM Dashboard",
+  description: "Enterprise CRM dashboard for revenue teams",
 };
 
 export default function RootLayout({
