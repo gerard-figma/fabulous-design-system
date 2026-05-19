@@ -256,7 +256,7 @@ export default function Home() {
               <Card className="min-w-72 bg-primary text-primary-foreground">
                 <CardHeader>
                   <CardTitle className="text-primary-foreground">
-                    Q2 forecast
+                    Q4 forecast
                   </CardTitle>
                   <CardDescription className="text-primary-foreground/75">
                     Commit plus best case
