@@ -234,7 +234,7 @@ export default function Home() {
                 </Badge>
                 <div className="space-y-2">
                   <h1 className="font-heading text-3xl font-semibold tracking-tight sm:text-4xl">
-                    Revenue command center
+                    Revenue dashboard
                   </h1>
                   <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground sm:text-base">
                     Track strategic accounts, pipeline health, sales activity,
