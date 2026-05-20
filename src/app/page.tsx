@@ -314,7 +314,7 @@ export default function Home() {
                     <MoreHorizontal aria-hidden />
                   </Button>
                 </CardAction>
-                <CardTitle>Pipeline by stage</CardTitle>
+                <CardTitle>Pipeline by phase</CardTitle>
                 <CardDescription>
                   Weighted value and deal movement across the enterprise funnel.
                 </CardDescription>
